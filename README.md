@@ -4,7 +4,7 @@ Liên lạc với tôi qua: [Facebook](https://www.facebook.com/zyassuo)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pin.it/2vwsy77l7">
   <source media="(prefers-color-scheme: light)" srcset="https://devo.vn/wp-content/uploads/2023/01/meo-cam-sung.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="bucanh">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="">
 </picture>
 
 <!--
