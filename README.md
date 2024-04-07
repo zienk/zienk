@@ -1,13 +1,8 @@
-# Yooo bro ! 👋
+# Yooo bro ! 👋 
+:shipit: I'm currently studying at FPT University in Ho Chi Minh City.
 Liên lạc với tôi qua: [Facebook](https://www.facebook.com/zyassuo)
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5qY2ozMGg2bm1venh4YXozYTdqbmdlN2xvN2I3anpldjJtZHV2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pin.it/2vwsy77l7">
-  <source media="(prefers-color-scheme: light)" srcset="https://devo.vn/wp-content/uploads/2023/01/meo-cam-sung.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="">
-</picture>
 
-<!--
 **zienk/zienk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
