@@ -1,4 +1,4 @@
-# Yooo bro ! 👋 
+<h1 align="center"> Yooo bro ! I'm ZienK </h1>
 :shipit: I'm currently studying at FPT University in Ho Chi Minh City.
 Social Network: [Facebook](https://www.facebook.com/zyassuo)
 
