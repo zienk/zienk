@@ -41,3 +41,7 @@
  <img align="center"  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zienk&theme=github-dark" alt="GitHub Streak" /></a>
  
 </div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F77233&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Goodbye!👋;" />
+</h1>
