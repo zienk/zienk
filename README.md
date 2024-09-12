@@ -6,6 +6,20 @@
 
 <h3 align="center">A passionate software developer from Vietnam 🇻🇳</h3>
 
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **C, Java, SQL**
+
+💬 Ask me about **Java, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fact **Practice make perfect 🔥**
+
+ </div>
+
 -  :shipit: I'm currently studying at FPT University in Ho Chi Minh City.
 # Technologies & Tools 
  
