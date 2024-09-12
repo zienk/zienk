@@ -1,5 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zienk.zienk" />
-<h1 align="center"> Yooo bro ! I'm ZienK </h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yo+brooo!+👋;+I'm+ZienK!;" />
+</h1>
 
 -  :shipit: I'm currently studying at FPT University in Ho Chi Minh City.
 # Technologies & Tools 
