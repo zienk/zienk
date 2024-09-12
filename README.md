@@ -20,7 +20,17 @@
 
  </div>
 
--  :shipit: I'm currently studying at FPT University in Ho Chi Minh City.
-# Technologies & Tools 
+<div align="center"> 
+  <a href="mailto:zienkdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+ <hr/>
  
-<p align="left"> <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="opencv" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSKJCNaNUeMFBN-OQijlZbhGt1vwGwLw0xI_Xqjyd_VA&s" alt="python" width="40" height="40"/>  </a> </p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=c,java,mysql" /><br>
+</div>
