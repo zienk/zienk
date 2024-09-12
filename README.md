@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C, Java, SQL**
 
-💬 Ask me about **Java, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Java, C, SQL... or anything [here](https://www.instagram.com/zienk._/)**
 
 ⚡ Fact **Practice make perfect 🔥**
 
