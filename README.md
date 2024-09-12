@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F77233&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yoooo+brooo!+👊;+I'm+ZienK!;I;love💞;cat😸" />
 </h1>
 
+<h3 align="center">A passionate software developer from Vietnam 🇻🇳</h3>
+
 -  :shipit: I'm currently studying at FPT University in Ho Chi Minh City.
 # Technologies & Tools 
  
