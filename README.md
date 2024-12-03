@@ -8,18 +8,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently learning at **FPT University**
- 
- 🌱 I’m currently learning **C, Java, SQL**
-
-💬 Ask me about **Java, C, SQL... or anything [here](https://www.instagram.com/zienk._/)**
-
-⚡ Fact **Practice make perfect 🔥**
-
- </div>
-
 <div align="center"> 
   <a href="mailto:zienkdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
