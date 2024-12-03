@@ -5,18 +5,17 @@
 </h1>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=c,java,mysql" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <div align=center>
  <img align="center"  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zienk&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
-
-<br/>
 
 <table align="center">
  <thead>
