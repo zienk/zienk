@@ -14,7 +14,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
- <img align="center"  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zienk&theme=github-dark" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zienk&theme=vue&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </div>
 
 <table align="center">
