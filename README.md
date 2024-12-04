@@ -20,7 +20,7 @@
 <table align="center">
  <thead>
   <tr>
-   <th style=""padding:6px 13px;><img src="https://github-readme-stats.vercel.app/api?username=zienk&theme=white&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;" ></th>
+<!--    <th style=""padding:6px 13px;><img src="https://github-readme-stats.vercel.app/api?username=zienk&theme=white&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;" ></th> -->
    <th style=""padding:6px 13px;><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zienk&theme=white&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" style="max-width: 100%;"></th>
   </tr>
  </thead>
