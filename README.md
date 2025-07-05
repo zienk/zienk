@@ -33,7 +33,7 @@
 </p>
 
 ## 🤝 Contact
-- Email: your@email.com
+- Email: zienkdev@email.com
 - [LinkedIn](#) <!-- Add your LinkedIn link here -->
 
 ## 💭 Quote
