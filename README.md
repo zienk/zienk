@@ -21,11 +21,23 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zienk&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=zienk&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zienk&layout=compact&theme=radical" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=zienk&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=zienk&theme=vue&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zienk&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ## 🐍 Contribution Snake
 
@@ -41,5 +53,3 @@
 - Email: zienkdev@email.com
 - [LinkedIn](#) <!-- Add your LinkedIn link here -->
 
-## 💭 Quote
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
