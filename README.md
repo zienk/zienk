@@ -27,9 +27,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zienk&layout=compact&theme=radical" />
 </p>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=zienk&theme=dracula" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zienk/zienk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zienk/zienk/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/zienk/zienk/output/github-snake.svg" />
+  </picture>
 </p>
 
 ## 🤝 Contact
@@ -37,4 +42,4 @@
 - [LinkedIn](#) <!-- Add your LinkedIn link here -->
 
 ## 💭 Quote
-_"Bewilderment is a phantom barrier; the bitter journey is a maze in the dark. At the end of time, we will find our own sea of stars."_
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
