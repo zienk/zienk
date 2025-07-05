@@ -1,6 +1,6 @@
 <!-- Banner or Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+ZienK!;Welcome+to+my+GitHub+Profile!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+ZienK!; Welcome+to+my+GitHub+Profile!&center=true&size=30">
 </p>
 
 ## 👨‍💻 About Me
