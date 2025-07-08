@@ -21,23 +21,23 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zienk&layout=compact&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=zienk&show_icons=true&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-    <img src="https://streak-stats.demolab.com?user=zienk&theme=vue&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=zienk&show_icons=true&theme=tokyonight" alt="ZienK's GitHub Stats" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zienk&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=zienk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -49,7 +49,10 @@
   </picture>
 </p>
 
-## 🤝 Contact
-- Email: zienkdev@email.com
-- [LinkedIn](#) <!-- Add your LinkedIn link here -->
+## 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/your_linkedin_username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/zienk1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:zienkdev@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
