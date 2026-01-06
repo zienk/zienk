@@ -4,7 +4,7 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🎓 I am a 3rd-year Software Engineering student at FPT University, Ho Chi Minh City campus, Vietnam.
+- 🎓 I am a 4rd-year Software Engineering student at FPT University, Ho Chi Minh City campus, Vietnam.
 - 💻 Currently focusing on C# and .NET development.
 - 🌱 Improving my skills in Git and GitHub for source code management.
 - 🛠️ Basic knowledge of HTML, CSS, C, and Java.
